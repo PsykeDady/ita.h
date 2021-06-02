@@ -1,4 +1,3 @@
-
 #define mentre while
 #define perogni for
 #define stampami printf
